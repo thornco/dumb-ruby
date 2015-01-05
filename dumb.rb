@@ -1,7 +1,7 @@
 class Dumb
-    def bad_spacing
-      {multiple: {bad: :spacings}}
-    end
+  def bad_spacing
+    {multiple: {bad: :spacings}}
+  end
 
   def right
     { these: { spaces: { should: { be: :ok } } } }
