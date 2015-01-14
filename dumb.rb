@@ -4,4 +4,5 @@ class Dumb
   end
 end
 
-p Dumb.new.bad_spacing
+dumb = Dumb.new
+p dumb.bad_spacing
