@@ -26,4 +26,5 @@ dumb = Dumb.new
 p dumb.bad_spacing
 p dumb.more_dumb_stuff
 
-puts "this string is too long and should probably be broken up so it doesn't  go over the character limit and make Hound unhappy."
+puts "this string is too long and should probably be broken up so it doesn't \
+go over the character limit and make Hound unhappy."
