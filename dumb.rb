@@ -4,7 +4,7 @@ class Dumb
   end
 
   def more_dumb_stuff
-    { :a => { :hash => { :with => { :one_dot_eight => { :syntax => { :and => { :long => :line } } } } } } }
+    { a: { hash: { with: { one_dot_eight: { syntax: { and: { long: :line } } } } } } }
   end
 end
 
