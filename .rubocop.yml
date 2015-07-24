@@ -1,0 +1,4 @@
+inherit_from:
+  - config/base.yml
+  - config/overrides.yml
+  ;nonsense;
