@@ -1,0 +1,4 @@
+scss_files: "app/assets/stylesheets/**/*.scss"
+exclude:
+- "app/assets/stylesheets/application_classic/**/*.scss"
+- "app/assets/stylesheets/base/_normalize.scss"
