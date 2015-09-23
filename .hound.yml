@@ -1,2 +1,6 @@
 ruby:
   enabled: true
+
+python:
+  enabled: true
+  config_file: python.ini
