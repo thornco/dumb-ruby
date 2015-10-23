@@ -1,2 +1,5 @@
 ruby:
   enabled: true
+
+mdast:
+  enabled: true
