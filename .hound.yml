@@ -1,2 +1,5 @@
 ruby:
   enabled: true
+
+remark:
+  enabled: true
