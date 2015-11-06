@@ -1,2 +1,6 @@
 ruby:
   enabled: true
+
+mdast:
+  enabled: true
+  config_file: .mdastrc
