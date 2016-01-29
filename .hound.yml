@@ -1,6 +1,6 @@
 ruby:
   enabled: true
 
-mdast:
+remark:
   enabled: true
-  config_file: .mdastrc
+  config_file: .remarkrc
