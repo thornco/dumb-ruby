@@ -1,2 +1,6 @@
 ruby:
   enabled: true
+
+remark:
+  enabled: true
+  config_file: .remarkrc
