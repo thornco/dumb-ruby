@@ -1,2 +1,5 @@
 ruby:
   enabled: true
+
+scss:
+  enabled: true
