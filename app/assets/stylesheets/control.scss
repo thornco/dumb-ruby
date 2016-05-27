@@ -5,3 +5,15 @@
 .yo {
   content: '1';
 }
+
+.something {
+  &.thats {
+    &.super {
+      &.nested {
+        .and-bad {
+          color: red;
+        }
+      }
+    }
+  }
+}
