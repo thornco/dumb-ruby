@@ -2,4 +2,4 @@ ruby:
   enabled: true
 
 scss:
-  config_file: ".scss.yml"
+  enabled: true
