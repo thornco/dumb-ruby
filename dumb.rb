@@ -6,3 +6,6 @@ end
 
 dumb = Dumb.new
 p dumb.bad_spacing
+
+
+  message = "this line has extra space everywhere"  
