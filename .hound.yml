@@ -1,2 +1,5 @@
 ruby:
   enabled: true
+
+coffeescript:
+  enabled: true
