@@ -1,2 +1,8 @@
 ruby:
   enabled: true
+
+javascript:
+  enabled: false
+
+eslint:
+  enabled: true
