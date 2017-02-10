@@ -6,3 +6,5 @@ end
 
 dumb = Dumb.new
 p dumb.bad_spacing
+
+puts "hello"
