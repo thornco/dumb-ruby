@@ -1,2 +1,5 @@
 ruby:
   enabled: true
+
+slim_lint:
+  enabled: true
